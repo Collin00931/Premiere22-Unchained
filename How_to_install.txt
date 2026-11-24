@@ -1,0 +1,15 @@
+Claude Bridge for Premiere Pro - quick install
+==============================================
+Works without Creative Cloud. Full details, tips and the uninstall steps are in README.md.
+
+1. Close Premiere Pro.
+2. Unzip this folder anywhere.
+3. Double-click install.bat (no admin needed).
+4. Start Premiere Pro and open Window > Extensions > Claude Bridge.
+   Wait for the green "Listening on 127.0.0.1:47823" message, then dock the panel
+   somewhere. It has to stay open while Claude is editing.
+5. Double-click premiere-pro-bridge.mcpb and click Install in Claude Desktop.
+   (Or add it under Claude Desktop > Settings > Extensions.)
+6. Done! Ask Claude: "Look at my active sequence in Premiere Pro."
+
+Have fun!
